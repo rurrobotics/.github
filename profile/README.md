@@ -29,6 +29,7 @@ There is **more to come**. We'll publish more of our work once it's cleaned up a
 | [**electronics**](https://github.com/rurrobotics/electronics) | Altium schematics and PCB designs for the robot's motion and actuator boards | Altium · PCB |
 | [**beacon**](https://github.com/rurrobotics/beacon) | ArUco-based SIMA tracking with UDP position broadcast | Python · OpenCV |
 | [**capek**](https://github.com/rurrobotics/capek) | Early-stage Embassy robotics framework grown out of the ninja firmware | Rust · Embassy |
+| [**waypoint**](https://github.com/rurrobotics/waypoint) | Desktop editor for planning Eurobot robot paths | Rust · Gpui |
 <!-- projects:end -->
 
 ## Get involved
