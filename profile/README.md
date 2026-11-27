@@ -30,6 +30,7 @@ There is **more to come**. We'll publish more of our work once it's cleaned up a
 | [**beacon**](https://github.com/rurrobotics/beacon) | ArUco-based SIMA tracking with UDP position broadcast | Python · OpenCV |
 | [**capek**](https://github.com/rurrobotics/capek) | Early-stage Embassy robotics framework grown out of the ninja firmware | Rust · Embassy |
 | [**waypoint**](https://github.com/rurrobotics/waypoint) | Desktop editor for planning Eurobot robot paths | Rust · Gpui |
+| [**bole**](https://github.com/rurrobotics/bole) | Ubuntu Server + ROS 2 image for Raspberry Pi 4/5, built with Ansible | Ansible · Packer |
 <!-- projects:end -->
 
 ## Get involved
